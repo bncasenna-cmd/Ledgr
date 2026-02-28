@@ -45,5 +45,3 @@ O Ledgr foi desenvolvido com o objetivo de unir organização pessoal e interaç
 •Albert Claudio
 
 •Bianca Senna
-
-•Juliane Sales
